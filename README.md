@@ -42,12 +42,6 @@ Pour voir mes projets créatifs, mes expérimentations libres ou mes contributio
   <a href="https://github.com/Dreyka-Oas">
     <img src="https://img.shields.io/badge/VOIR_MON_PROFIL_PERSO_@Dreyka--Oas-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="Personal Profile" />
   </a>
-  <br/>
 </div>
 
----
-
-<div align="center">
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer" width="100%"/>
