@@ -12,7 +12,7 @@
 
   <br />
 
-  > *"La rigueur du code, l'architecture logicielle et les standards industriels."*
+  > *"Rigueur, architecture logicielle et adaptabilité."*
 
 </div>
 
@@ -20,19 +20,19 @@
 
 ### 🏛️ À propos
 
-Ce profil regroupe exclusivement mes projets réalisés dans un cadre **académique** et **professionnel**.
-Mon objectif ici est la `rigueur`, la `gestion de la mémoire` et l'`optimisation`.
+Ce profil regroupe exclusivement mes projets réalisés dans un cadre **académique** et **scolaire**.
+Les technologies varient selon les consignes des projets, mais l'objectif reste constant : produire du code `propre`, `optimisé` et `maintenable`.
 
-Vous trouverez ici des implémentations bas niveau :
-*   ⚙️ Gestion de processus `Unix`, `Threads` et `Signaux`.
-*   🏗️ Architecture logicielle en `C` et `C++` (Respect de la norme).
-*   🌐 Création de serveurs et conteneurisation `Docker`.
+Ici, je me concentre sur les fondamentaux :
+*   📐 **Architecture & Structure** : Organisation logique des fichiers et des données.
+*   🛡️ **Robustesse** : Gestion des erreurs, des fuites mémoires et des cas limites.
+*   🤝 **Code Review** : Tous les projets archivés ici ont été validés par des pairs.
 
 ---
 
 ### 🧪 Projets Personnels (Labo)
 
-Pour voir mes projets créatifs, mes tests technologiques ou mes contributions open-source non-scolaires, consultez mon profil personnel :
+Pour voir mes projets créatifs, mes expérimentations libres ou mes contributions "hors cadre scolaire", tout se passe sur mon compte secondaire :
 
 <div align="center">
   <br/>
@@ -43,18 +43,6 @@ Pour voir mes projets créatifs, mes tests technologiques ou mes contributions o
 </div>
 
 ---
-
-### 🛠️ Compétences Techniques
-
-*Ces technologies sont celles utilisées dans mes projets validés sur ce profil.*
-
-| **Langages Système** | **Web & Réseau** | **DevOps & Outils** |
-| :---: | :---: | :---: |
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <br/> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br/> ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br/> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-
-<br />
-
-> 📌 **Note :** Chaque projet archivé sur ce compte a été validé par des pairs (Code Review) et respecte des normes strictes de codage.
 
 <div align="center">
   <br />
