@@ -49,17 +49,6 @@ Ici, pas de bricolage : l'objectif est de produire du code `propre`, `normé` et
 
 ---
 
-### 📈 Activité Académique
-
-<div align="center">
-  <a href="https://github.com/LetermeFlorent">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LetermeFlorent&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetermeFlorent&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
-  </a>
-</div>
-
----
-
 ### 🧪 Le Laboratoire (Projets Perso)
 
 Pour voir mes projets créatifs, mes expérimentations libres ou mes contributions "hors cadre scolaire", tout se passe sur mon compte secondaire :
