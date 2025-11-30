@@ -8,6 +8,9 @@
     <a href="https://github.com/LetermeFlorent">
       <img src="https://img.shields.io/badge/STATUS-ETUDIANT_42-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Student" />
     </a>
+    <a href="https://www.linkedin.com/in/leterme-florent/">
+      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
   </p>
 
   <br />
