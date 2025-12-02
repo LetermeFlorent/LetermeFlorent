@@ -1,17 +1,19 @@
 <div align="center">
 
-  <!-- EN-TÊTE ANIMÉ : NOM & COMPÉTENCES -->
-  <a href="https://github.com/LetermeFlorent">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Florent+Leterme;Portfolio+Acad%C3%A9mique;C+%2F+C%2B%2B+%2F+Docker+%2F+Algorithms;Architecture+%26+Optimisation" alt="Typing SVG" />
+  <!-- EN-TÊTE ANIMÉ : NOM & COMPÉTENCES RÉELLES -->
+  <a href="https://letermeflorent.github.io/Portfolio/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Florent+Leterme;D%C3%A9veloppeur+Web+%26+Logiciel;PHP+%2F+Java+%2F+SQL+%2F+JS;Dipl%C3%B4m%C3%A9+BTS+SIO+SLAM" alt="Typing SVG" />
   </a>
 
   <br />
 
-  <!-- BADGES SOCIAUX -->
+  <!-- BOUTONS D'ACTION -->
   <p>
-    <a href="https://github.com/LetermeFlorent">
-      <img src="https://img.shields.io/badge/ETUDIANT-42-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Student" />
+    <!-- Lien vers le Portfolio en Ligne -->
+    <a href="https://letermeflorent.github.io/Portfolio/">
+      <img src="https://img.shields.io/badge/VISITER_MON_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=61DAFB&color=20232a" alt="Portfolio" />
     </a>
+    <!-- Lien LinkedIn -->
     <a href="https://www.linkedin.com/in/leterme-florent/">
       <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -19,29 +21,37 @@
 
   <br />
 
-  > *"Rigueur, architecture logicielle et adaptabilité."*
+  > *"Rigueur académique, développement Fullstack et sensibilité UX/UI."*
 
 </div>
 
 ---
 
-### 🏛️ Philosophie du Code
+### 💻 Stack Technique
 
-Ce profil regroupe exclusivement mes projets réalisés dans un cadre **académique** et **scolaire**.
-Ici, pas de bricolage : l'objectif est de produire du code `propre`, `normé` et `maintenable`.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,java,mysql,postgres,html,css,js,git,vscode,idea" />
+</div>
+
+---
+
+### 🏛️ Philosophie & Parcours
+
+Ce profil regroupe mes projets réalisés dans un cadre **académique** (BTS SIO) et **professionnel** (Stages).
+Mon objectif est de concevoir des solutions logicielles fonctionnelles et adaptées aux besoins métiers.
 
 <div align="center">
   <br/>
   <table>
     <tr>
-      <td align="center">📐 <b>Architecture</b></td>
-      <td align="center">🛡️ <b>Robustesse</b></td>
-      <td align="center">🤝 <b>Peer Review</b></td>
+      <td align="center">🌐 <b>Développement Web</b></td>
+      <td align="center">⚙️ <b>Logiciel & BDD</b></td>
+      <td align="center">🚀 <b>Méthodologie</b></td>
     </tr>
     <tr>
-      <td align="center">Organisation stricte des données et de la mémoire.</td>
-      <td align="center">Gestion des fuites (Leaks) et des cas limites.</td>
-      <td align="center">Code validé et audité par des pairs.</td>
+      <td align="center">Conception d'interfaces (Intranets, Sites vitrines) et UX/UI.</td>
+      <td align="center">Gestion de données (CRUD, SQL) et POO (Java/PHP).</td>
+      <td align="center">Travail en équipe, Agile et Versionning (Git).</td>
     </tr>
   </table>
   <br/>
@@ -56,7 +66,7 @@ Pour voir mes projets créatifs, mes expérimentations libres ou mes contributio
 <div align="center">
   <br/>
   <a href="https://github.com/Dreyka-Oas">
-    <img src="https://img.shields.io/badge/VOIR_MON_PROFIL_CRÉATIF-@Dreyka--Oas-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="Personal Profile" />
+    <img src="https://img.shields.io/badge/VOIR_MON_PROFIL_CRÉATIF-@Dreyka--Oas-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="Personal Profile" />
   </a>
 </div>
 
