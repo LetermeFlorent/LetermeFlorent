@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=190&section=header&text=Florent%20Leterme&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeur%20Web%20%26%20Logiciel%20%C2%B7%20BTS%20SIO%20SLAM&descAlignY=56&descSize=16" width="100%"/>
+# Florent Leterme
+
+**Développeur Web & Logiciel · BTS SIO SLAM**
 
 <a href="https://letermeflorent.github.io/Portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=D%C3%A9veloppeur+Fullstack;PHP+%2F+Symfony+%2F+JS+%2F+TS;Rigueur+acad%C3%A9mique+%2B+UX%2FUI" alt="Typing SVG" />
@@ -86,6 +88,10 @@ Objectif : des solutions logicielles fonctionnelles, adaptées aux besoins méti
 6. 🚀 release publiée sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
 <!--END_SECTION:activity-->
 
-<div align="center"><sub>Sections « Stack », « en chiffres » et « Activité récente » régénérées automatiquement toutes les 6&nbsp;h par une GitHub Action — jamais éditées à la main.</sub></div>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+---
+
+<sub>Sections « Stack », « en chiffres » et « Activité récente » régénérées automatiquement toutes les 6&nbsp;h par une GitHub Action — jamais éditées à la main.</sub>
+
+</div>
