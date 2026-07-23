@@ -65,6 +65,14 @@ Objectif : concevoir des solutions logicielles fonctionnelles, adaptées aux bes
 ## 📌 Dernière activité (auto)
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v0.2.1](https://github.com/LetermeFlorent/claude-subagents/releases/tag/v0.2.1) in [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+2. 🚀 Published release [v0.2.0](https://github.com/LetermeFlorent/claude-subagents/releases/tag/v0.2.0) in [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+3. 🚀 Published release [v0.1.7](https://github.com/LetermeFlorent/claude-subagents/releases/tag/v0.1.7) in [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+4. 🚀 Published release [v0.1.6](https://github.com/LetermeFlorent/claude-subagents/releases/tag/v0.1.6) in [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+5. 🚀 Published release [v0.1.5](https://github.com/LetermeFlorent/claude-subagents/releases/tag/v0.1.5) in [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+6. 🚀 Published release [v0.1.4](https://github.com/LetermeFlorent/claude-subagents/releases/tag/v0.1.4) in [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+7. 🚀 Published release [v0.1.3](https://github.com/LetermeFlorent/claude-subagents/releases/tag/v0.1.3) in [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+8. 🚀 Published release [v0.1.2](https://github.com/LetermeFlorent/claude-subagents/releases/tag/v0.1.2) in [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
 <!--END_SECTION:activity-->
 
 <sub>Généré automatiquement toutes les 6h par une GitHub Action — jamais modifié à la main.</sub>
