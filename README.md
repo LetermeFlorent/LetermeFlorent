@@ -4,14 +4,9 @@
 
 **Développeur Web & Logiciel · Executive Bachelor Concepteur Développeur d'Applications (ISCOD) · Alternance @ IPMS**
 
-<a href="https://letermeflorent.github.io/Portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=D%C3%A9veloppeur+Fullstack;PHP+%2F+Symfony+%2F+JS+%2F+TS;Rigueur+acad%C3%A9mique+%2B+UX%2FUI" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=D%C3%A9veloppeur+Fullstack;PHP+%2F+Symfony+%2F+JS+%2F+TS;Rigueur+acad%C3%A9mique+%2B+UX%2FUI" alt="Typing SVG" />
 
 <p>
-  <a href="https://letermeflorent.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-20232a?style=for-the-badge&logo=googlechrome&logoColor=61DAFB" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/leterme-florent/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
