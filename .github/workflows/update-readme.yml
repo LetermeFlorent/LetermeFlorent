@@ -19,7 +19,9 @@ jobs:
       - name: Generate recent activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: LetermeFlorent
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: LetermeFlorent
           COMMIT_MSG: "chore: mise a jour auto de l'activite recente"
-          MAX_LINES: "5"
+          MAX_LINES: "8"
+          FILTER_EVENTS: "PushEvent,CreateEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent"
