@@ -26,8 +26,8 @@
 
 <div align="center">
 
-  ![PHP](https://img.shields.io/badge/PHP-56.3%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-29.2%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-56.1%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-29.4%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-7.3%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-2.0%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-1.6%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,11 +74,11 @@ Objectif : des solutions logicielles fonctionnelles, adaptées aux besoins méti
 
 <!--START_SECTION:activity-->
 1. ⬆️ 1 commit poussé sur [LetermeFlorent/LetermeFlorent](https://github.com/LetermeFlorent/LetermeFlorent)
-2. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
-3. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
-4. 🚀 release publiée sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
-5. ✨ branch créé sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
-6. 🚀 release publiée sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
+2. ⭐ étoile sur [LetermeFlorent/LetermeFlorent](https://github.com/LetermeFlorent/LetermeFlorent)
+3. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+4. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
+5. 🚀 release publiée sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+6. ✨ branch créé sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
