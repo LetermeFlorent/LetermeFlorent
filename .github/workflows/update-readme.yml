@@ -1,4 +1,4 @@
-name: Update README activity
+name: Update profile README
 
 on:
   schedule:
@@ -6,22 +6,40 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths-ignore:
+      - "README.md"
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate recent activity
-        uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Regenerer les sections auto
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          GH_USERNAME: LetermeFlorent
-          COMMIT_MSG: "chore: mise a jour auto de l'activite recente"
-          MAX_LINES: "8"
-          FILTER_EVENTS: "PushEvent,CreateEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent"
+          PROFILE_USER: LetermeFlorent
+        run: node scripts/update-profile.js
+
+      - name: Commit si changement
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- README.md; then
+            git add README.md
+            git commit -m "chore: mise a jour auto (langues, chiffres, activite)"
+            git push
+          else
+            echo "Aucun changement."
+          fi
