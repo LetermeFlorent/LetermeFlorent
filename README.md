@@ -2,7 +2,7 @@
 
 # Florent Leterme
 
-**Développeur Web & Logiciel · BTS SIO SLAM**
+**Développeur Web & Logiciel · Executive Bachelor Concepteur Développeur d'Applications (ISCOD) · Alternance @ IPMS**
 
 <a href="https://letermeflorent.github.io/Portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=D%C3%A9veloppeur+Fullstack;PHP+%2F+Symfony+%2F+JS+%2F+TS;Rigueur+acad%C3%A9mique+%2B+UX%2FUI" alt="Typing SVG" />
@@ -47,7 +47,7 @@
 
 ## 🏛️ Philosophie & parcours
 
-Projets réalisés dans un cadre **académique** (BTS SIO SLAM) et **professionnel** (stages).
+Actuellement en **Executive Bachelor Concepteur Développeur d'Applications** (ISCOD), en **alternance chez IPMS**.
 Objectif : des solutions logicielles fonctionnelles, adaptées aux besoins métiers, avec une vraie attention portée à l'UX.
 
 <div align="center">
