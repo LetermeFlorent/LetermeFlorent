@@ -19,8 +19,6 @@
 
 ## 💻 Stack technique
 
-<sub>Icônes et pourcentages déduits automatiquement des langages réellement utilisés dans mes dépôts publics.</sub>
-
 <!--START_SECTION:stack-->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,js,ts,css,python,html,rust&perline=10" alt="Stack" />
@@ -83,10 +81,4 @@ Objectif : des solutions logicielles fonctionnelles, adaptées aux besoins méti
 6. 🚀 release publiée sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
 <!--END_SECTION:activity-->
 
-<div align="center">
-
----
-
-<sub>Sections « Stack », « en chiffres » et « Activité récente » régénérées automatiquement toutes les 6&nbsp;h par une GitHub Action — jamais éditées à la main.</sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
