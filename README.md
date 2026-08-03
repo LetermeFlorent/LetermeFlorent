@@ -73,12 +73,12 @@ Objectif : des solutions logicielles fonctionnelles, adaptées aux besoins méti
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ 1 commit poussé sur [LetermeFlorent/LetermeFlorent](https://github.com/LetermeFlorent/LetermeFlorent)
-2. ⭐ étoile sur [LetermeFlorent/LetermeFlorent](https://github.com/LetermeFlorent/LetermeFlorent)
-3. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
-4. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
-5. 🚀 release publiée sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
-6. ✨ branch créé sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+1. ⬆️ 1 commit poussé sur [LetermeFlorent/ghDistant](https://github.com/LetermeFlorent/ghDistant)
+2. 🔀 PR merged sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
+3. 🔀 PR opened sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
+4. 💬 commentaire sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
+5. 🍴 fork de [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
+6. ⬆️ 1 commit poussé sur [LetermeFlorent/LetermeFlorent](https://github.com/LetermeFlorent/LetermeFlorent)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
