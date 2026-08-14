@@ -26,8 +26,8 @@
 
 <div align="center">
 
-  ![PHP](https://img.shields.io/badge/PHP-56.0%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-29.5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-55.9%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-29.6%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-7.3%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-2.0%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-1.6%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -73,8 +73,8 @@ Objectif : des solutions logicielles fonctionnelles, adaptées aux besoins méti
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
-2. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+1. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+2. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
 3. 🔀 PR merged sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
 4. 🔀 PR opened sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
 5. 💬 commentaire sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
