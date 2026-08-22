@@ -78,7 +78,6 @@ Objectif : des solutions logicielles fonctionnelles, adaptées aux besoins méti
 3. 🔀 PR merged sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
 4. 🔀 PR opened sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
 5. 💬 commentaire sur [Dreyka-Oas/ghDistant](https://github.com/Dreyka-Oas/ghDistant)
-6. ⬆️ 1 commit poussé sur [LetermeFlorent/LetermeFlorent](https://github.com/LetermeFlorent/LetermeFlorent)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
