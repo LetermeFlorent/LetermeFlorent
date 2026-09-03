@@ -26,14 +26,14 @@
 
 <div align="center">
 
-  ![PHP](https://img.shields.io/badge/PHP-55.9%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-29.6%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-7.3%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-55.6%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-30.0%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-7.2%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-2.0%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-1.6%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-1.5%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Twig](https://img.shields.io/badge/Twig-1.2%25-8CB92A?style=for-the-badge&logo=twig&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-1.0%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-0.90%25-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-0.89%25-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 <!--END_SECTION:stack-->
@@ -56,7 +56,7 @@ Objectif : des solutions logicielles fonctionnelles, adaptées aux besoins méti
 <!--START_SECTION:stats-->
 <div align="center">
 
-  ![Repos_publics](https://img.shields.io/badge/Repos__publics-10-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
+  ![Repos_publics](https://img.shields.io/badge/Repos__publics-11-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
   ![Etoiles](https://img.shields.io/badge/Etoiles-1-F1C40F?style=for-the-badge&logo=github&logoColor=white)
   ![Langue_principale](https://img.shields.io/badge/Langue__principale-PHP-00B894?style=for-the-badge)
   ![Langues](https://img.shields.io/badge/Langues-11-0984E3?style=for-the-badge)
