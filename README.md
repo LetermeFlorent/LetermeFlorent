@@ -26,14 +26,14 @@
 
 <div align="center">
 
-  ![PHP](https://img.shields.io/badge/PHP-55.6%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-30.0%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-55.3%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-30.4%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-7.2%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-2.0%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-1.5%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Twig](https://img.shields.io/badge/Twig-1.2%25-8CB92A?style=for-the-badge&logo=twig&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML-1.0%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-0.89%25-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-1.00%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-0.88%25-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 <!--END_SECTION:stack-->
@@ -73,8 +73,9 @@ Objectif : des solutions logicielles fonctionnelles, adaptées aux besoins méti
 ## 📌 Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
-2. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+1. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+2. ⬆️ 1 commit poussé sur [LetermeFlorent/sysmon-statusbar](https://github.com/LetermeFlorent/sysmon-statusbar)
+3. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
 <!--END_SECTION:activity-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
