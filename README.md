@@ -19,18 +19,18 @@ Deux extensions VS Code, enfin : [sysmon-statusbar](https://github.com/LetermeFl
 ## Langages
 
 <!--START_SECTION:stack-->
-Répartition du code sur mes dépôts publics : PHP 54 %, JavaScript 33 %, TypeScript 7 %, CSS 2 %, Python 1 %, Twig 1 %.
+Répartition du code sur mes dépôts publics : PHP 53 %, JavaScript 32 %, TypeScript 7 %, CSS 2 %, Python 1 %, Twig 1 %, HTML 1 %.
 <!--END_SECTION:stack-->
 
 ## Activité récente
 
 <!--START_SECTION:activity-->
-- 1 commit poussé sur [LetermeFlorent/LetermeFlorent](https://github.com/LetermeFlorent/LetermeFlorent)
 - 1 commit poussé sur [LetermeFlorent/monitor-control](https://github.com/LetermeFlorent/monitor-control)
+- Branche créée sur [LetermeFlorent/ai-fleet-site](https://github.com/LetermeFlorent/ai-fleet-site)
+- 1 commit poussé sur [LetermeFlorent/LetermeFlorent](https://github.com/LetermeFlorent/LetermeFlorent)
 - Branche créée sur [LetermeFlorent/monitor-control](https://github.com/LetermeFlorent/monitor-control)
 - 1 commit poussé sur [LetermeFlorent/sysmon-statusbar](https://github.com/LetermeFlorent/sysmon-statusbar)
 - 1 commit poussé sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
-- 1 commit poussé sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
 <!--END_SECTION:activity-->
 
 Me joindre : [LinkedIn](https://www.linkedin.com/in/leterme-florent/). Mes projets personnels (mods de jeu, sites) sont sur [@Dreyka-Oas](https://github.com/Dreyka-Oas).
