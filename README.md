@@ -1,83 +1,36 @@
-<div align="center">
-
 # Florent Leterme
 
-**Développeur Web & Logiciel · Executive Bachelor Concepteur Développeur d'Applications (ISCOD) · Alternance @ IPMS**
+Développeur en alternance chez IPMS, en Executive Bachelor Concepteur Développeur d'Applications à l'ISCOD. J'habite à Tours.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=D%C3%A9veloppeur+Fullstack;PHP+%2F+Symfony+%2F+JS+%2F+TS;Rigueur+acad%C3%A9mique+%2B+UX%2FUI" alt="Typing SVG" />
+Je fais surtout du web côté serveur, en PHP et Symfony, avec PostgreSQL ou MySQL derrière. Hors des cours, j'écris des outils pour mon propre poste : une extension GNOME, des extensions VS Code, un scanner de sécurité. C'est là que j'apprends le plus, parce que je m'en sers tous les jours et que chaque défaut finit par me gêner.
 
-<p>
-  <a href="https://www.linkedin.com/in/leterme-florent/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Dreyka-Oas">
-    <img src="https://img.shields.io/badge/PROJETS_PERSO-@Dreyka--Oas-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="Projets perso" />
-  </a>
-</p>
+## Projets
 
-</div>
+[Monitor Control](https://github.com/LetermeFlorent/monitor-control) règle la luminosité et le contraste des écrans externes depuis la barre de GNOME, par DDC/CI. Elle ajoute un voile qui assombrit plus bas que le minimum du moniteur, et elle est [publiée sur extensions.gnome.org](https://extensions.gnome.org/extension/11065/monitor-control/).
 
-## 💻 Stack technique
+[semgrep-web](https://github.com/LetermeFlorent/semgrep-web) lance treize analyses de sécurité en parallèle sur un dossier de code, dans Docker, avec les disques montés en lecture seule.
+
+[systeme_de_reservation](https://github.com/LetermeFlorent/systeme_de_reservation) est une plateforme de réservation sportive qui met en relation membres et coachs (Symfony 6.4, PHP 8.2, MySQL, Docker).
+
+[Oxide](https://github.com/LetermeFlorent/Oxide) est un environnement de développement en Tauri 2, React et Rust, avec un vrai terminal.
+
+Deux extensions VS Code, enfin : [sysmon-statusbar](https://github.com/LetermeFlorent/sysmon-statusbar) affiche l'usage du processeur, de la carte graphique et de la mémoire dans la barre d'état, et [claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar) y montre les limites d'usage de Claude.
+
+## Langages
 
 <!--START_SECTION:stack-->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,css,python,html,rust&perline=10" alt="Stack" />
-</div>
-
-<div align="center">
-
-  ![PHP](https://img.shields.io/badge/PHP-54.1%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-31.8%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-7.1%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-2.0%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-1.5%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Twig](https://img.shields.io/badge/Twig-1.2%25-8CB92A?style=for-the-badge&logo=twig&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML-0.98%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-0.87%25-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-</div>
+Répartition du code sur mes dépôts publics : PHP 53 %, JavaScript 33 %, TypeScript 7 %, CSS 2 %, Python 1 %, Twig 1 %.
 <!--END_SECTION:stack-->
 
-## 🏛️ Philosophie & parcours
-
-Actuellement en **Executive Bachelor Concepteur Développeur d'Applications** (ISCOD), en **alternance chez IPMS**.
-Objectif : des solutions logicielles fonctionnelles, adaptées aux besoins métiers, avec une vraie attention portée à l'UX.
-
-<div align="center">
-
-| 🌐 Développement Web | ⚙️ Logiciel & BDD | 🚀 Méthodologie |
-|:---:|:---:|:---:|
-| Interfaces (intranets, sites vitrines), UX/UI | CRUD, SQL, POO (Java / PHP) | Travail en équipe, Agile, Git |
-
-</div>
-
-## 📊 GitHub en chiffres
-
-<!--START_SECTION:stats-->
-<div align="center">
-
-  ![Repos_publics](https://img.shields.io/badge/Repos__publics-11-6C5CE7?style=for-the-badge&logo=github&logoColor=white)
-  ![Etoiles](https://img.shields.io/badge/Etoiles-1-F1C40F?style=for-the-badge&logo=github&logoColor=white)
-  ![Langue_principale](https://img.shields.io/badge/Langue__principale-PHP-00B894?style=for-the-badge)
-  ![Langues](https://img.shields.io/badge/Langues-11-0984E3?style=for-the-badge)
-
-</div>
-<!--END_SECTION:stats-->
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LetermeFlorent&theme=tokyo-night&hide_border=true&area=true&custom_title=Activit%C3%A9%20de%20contribution" width="100%"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=LetermeFlorent&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" />
-</div>
-
-## 📌 Activité récente
+## Activité récente
 
 <!--START_SECTION:activity-->
-1. ⬆️ 1 commit poussé sur [LetermeFlorent/sysmon-statusbar](https://github.com/LetermeFlorent/sysmon-statusbar)
-2. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
-3. ⬆️ 1 commit poussé sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
-4. ✨ branch créé sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
-5. ✨ branch créé sur [LetermeFlorent/sysmon-statusbar](https://github.com/LetermeFlorent/sysmon-statusbar)
+- 1 commit poussé sur [LetermeFlorent/monitor-control](https://github.com/LetermeFlorent/monitor-control)
+- Branche créée sur [LetermeFlorent/monitor-control](https://github.com/LetermeFlorent/monitor-control)
+- 1 commit poussé sur [LetermeFlorent/sysmon-statusbar](https://github.com/LetermeFlorent/sysmon-statusbar)
+- 1 commit poussé sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
+- 1 commit poussé sur [LetermeFlorent/claude-subagents](https://github.com/LetermeFlorent/claude-subagents)
+- Branche créée sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
 <!--END_SECTION:activity-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+Me joindre : [LinkedIn](https://www.linkedin.com/in/leterme-florent/). Mes projets personnels (mods de jeu, sites) sont sur [@Dreyka-Oas](https://github.com/Dreyka-Oas).
