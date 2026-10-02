@@ -25,8 +25,8 @@ Répartition du code sur mes dépôts publics : PHP 53 %, JavaScript 33 %, TypeS
 ## Activité récente
 
 <!--START_SECTION:activity-->
-- Release publiée sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
 - 1 commit poussé sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
+- Release publiée sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
 - 1 commit poussé sur [LetermeFlorent/sysmon-statusbar](https://github.com/LetermeFlorent/sysmon-statusbar)
 - 1 commit poussé sur [LetermeFlorent/ai-fleet-site](https://github.com/LetermeFlorent/ai-fleet-site)
 - 1 commit poussé sur [LetermeFlorent/monitor-control](https://github.com/LetermeFlorent/monitor-control)
