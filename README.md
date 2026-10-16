@@ -33,4 +33,4 @@ Répartition du code sur mes dépôts publics : PHP 48 %, JavaScript 30 %, Power
 - 1 commit poussé sur [LetermeFlorent/ai-fleet-site](https://github.com/LetermeFlorent/ai-fleet-site)
 <!--END_SECTION:activity-->
 
-Me joindre : [LinkedIn](https://www.linkedin.com/in/leterme-florent/). Mes projets personnels (mods de jeu, sites) sont sur [@Dreyka-Oas](https://github.com/Dreyka-Oas).
+Me joindre : [LinkedIn](https://www.linkedin.com/in/leterme-florent/).
