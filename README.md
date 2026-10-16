@@ -19,7 +19,7 @@ Deux extensions VS Code, enfin : [sysmon-statusbar](https://github.com/LetermeFl
 ## Langages
 
 <!--START_SECTION:stack-->
-Répartition du code sur mes dépôts publics : PHP 48 %, JavaScript 30 %, PowerShell 8 %, TypeScript 6 %, Rust 3 %, CSS 2 %, Python 1 %, Twig 1 %.
+Répartition du code sur mes dépôts publics : PHP 72 %, PowerShell 11 %, JavaScript 8 %, Rust 4 %, CSS 3 %, Twig 2 %.
 <!--END_SECTION:stack-->
 
 ## Activité récente
@@ -30,7 +30,7 @@ Répartition du code sur mes dépôts publics : PHP 48 %, JavaScript 30 %, Power
 - 1 commit poussé sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
 - Release publiée sur [LetermeFlorent/claude-ratelimit-statusbar](https://github.com/LetermeFlorent/claude-ratelimit-statusbar)
 - 1 commit poussé sur [LetermeFlorent/sysmon-statusbar](https://github.com/LetermeFlorent/sysmon-statusbar)
-- 1 commit poussé sur [LetermeFlorent/ai-fleet-site](https://github.com/LetermeFlorent/ai-fleet-site)
+- 1 commit poussé sur [LetermeFlorent/monitor-control](https://github.com/LetermeFlorent/monitor-control)
 <!--END_SECTION:activity-->
 
 Me joindre : [LinkedIn](https://www.linkedin.com/in/leterme-florent/).
