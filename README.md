@@ -19,7 +19,7 @@ Deux extensions VS Code, enfin : [sysmon-statusbar](https://github.com/LetermeFl
 ## Langages
 
 <!--START_SECTION:stack-->
-Répartition du code sur mes dépôts publics : PHP 63 %, PowerShell 21 %, JavaScript 8 %, Rust 4 %, CSS 2 %, Twig 1 %.
+Répartition du code sur mes dépôts publics : PHP 61 %, PowerShell 23 %, JavaScript 8 %, Rust 3 %, CSS 2 %, Twig 1 %.
 <!--END_SECTION:stack-->
 
 ## Activité récente
