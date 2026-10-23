@@ -19,16 +19,16 @@ Deux extensions VS Code, enfin : [sysmon-statusbar](https://github.com/LetermeFl
 ## Langages
 
 <!--START_SECTION:stack-->
-Répartition du code sur mes dépôts publics : PHP 45 %, Rust 18 %, PowerShell 17 %, Python 11 %, JavaScript 6 %, CSS 2 %.
+Répartition du code sur mes dépôts publics : PHP 44 %, Rust 19 %, PowerShell 17 %, Python 11 %, JavaScript 6 %, CSS 2 %.
 <!--END_SECTION:stack-->
 
 ## Activité récente
 
 <!--START_SECTION:activity-->
-- Branche créée sur [LetermeFlorent/trame](https://github.com/LetermeFlorent/trame)
-- Branche créée sur [LetermeFlorent/claude-skills](https://github.com/LetermeFlorent/claude-skills)
 - 1 commit poussé sur [LetermeFlorent/trame](https://github.com/LetermeFlorent/trame)
 - 1 commit poussé sur [LetermeFlorent/claude-account-menu](https://github.com/LetermeFlorent/claude-account-menu)
+- Branche créée sur [LetermeFlorent/trame](https://github.com/LetermeFlorent/trame)
+- Branche créée sur [LetermeFlorent/claude-skills](https://github.com/LetermeFlorent/claude-skills)
 - 1 commit poussé sur [LetermeFlorent/claude-statusline](https://github.com/LetermeFlorent/claude-statusline)
 - 1 commit poussé sur [LetermeFlorent/LetermeFlorent](https://github.com/LetermeFlorent/LetermeFlorent)
 <!--END_SECTION:activity-->
