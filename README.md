@@ -25,10 +25,10 @@ Répartition du code sur mes dépôts publics : PHP 31 %, Rust 30 %, PowerShell 
 ## Activité récente
 
 <!--START_SECTION:activity-->
+- 1 commit poussé sur [LetermeFlorent/trame](https://github.com/LetermeFlorent/trame)
 - 1 commit poussé sur [LetermeFlorent/claude-skills](https://github.com/LetermeFlorent/claude-skills)
 - 1 commit poussé sur [LetermeFlorent/claude-statusline](https://github.com/LetermeFlorent/claude-statusline)
 - 1 commit poussé sur [LetermeFlorent/claude-account-menu](https://github.com/LetermeFlorent/claude-account-menu)
-- 1 commit poussé sur [LetermeFlorent/trame](https://github.com/LetermeFlorent/trame)
 - Branche créée sur [LetermeFlorent/claude-statusline](https://github.com/LetermeFlorent/claude-statusline)
 - PR merged sur [LetermeFlorent/claude-statusline](https://github.com/LetermeFlorent/claude-statusline)
 <!--END_SECTION:activity-->
