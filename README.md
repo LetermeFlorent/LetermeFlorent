@@ -19,18 +19,18 @@ Deux extensions VS Code, enfin : [sysmon-statusbar](https://github.com/LetermeFl
 ## Langages
 
 <!--START_SECTION:stack-->
-Répartition du code sur mes dépôts publics : PHP 31 %, Rust 30 %, PowerShell 22 %, Python 8 %, JavaScript 4 %, TypeScript 2 %, CSS 2 %.
+Répartition du code sur mes dépôts publics : PHP 30 %, Rust 29 %, PowerShell 21 %, Python 9 %, JavaScript 4 %, TypeScript 2 %, CSS 2 %.
 <!--END_SECTION:stack-->
 
 ## Activité récente
 
 <!--START_SECTION:activity-->
-- 1 commit poussé sur [LetermeFlorent/trame](https://github.com/LetermeFlorent/trame)
-- Branche créée sur [LetermeFlorent/trame](https://github.com/LetermeFlorent/trame)
 - 1 commit poussé sur [LetermeFlorent/claude-skills](https://github.com/LetermeFlorent/claude-skills)
 - Release publiée sur [LetermeFlorent/claude-skills](https://github.com/LetermeFlorent/claude-skills)
-- 1 commit poussé sur [LetermeFlorent/claude-statusline](https://github.com/LetermeFlorent/claude-statusline)
 - PR merged sur [LetermeFlorent/claude-statusline](https://github.com/LetermeFlorent/claude-statusline)
+- PR opened sur [LetermeFlorent/claude-statusline](https://github.com/LetermeFlorent/claude-statusline)
+- 1 commit poussé sur [LetermeFlorent/trame](https://github.com/LetermeFlorent/trame)
+- Branche créée sur [LetermeFlorent/trame](https://github.com/LetermeFlorent/trame)
 <!--END_SECTION:activity-->
 
 Me joindre : [LinkedIn](https://www.linkedin.com/in/leterme-florent/).
